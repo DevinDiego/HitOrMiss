@@ -1,3 +1,7 @@
 # HitOrMiss
 Guess the word!
-### A game I learned on Udemy, but I refactored my own way.
+### Guess the word.
+No capital or repeated letters allowed.
+For each attempt the program will display
+to the user how many hits and how many misses.
+Guess the word before lives run out.
